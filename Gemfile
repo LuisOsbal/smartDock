@@ -54,7 +54,7 @@ group :development do
   gem 'pry-rails', group: :development
   gem 'awesome_print', require: 'ap'
   # Provides a better error page for Rails and other Rack apps.
-  gem 'better_errors', '~> 2.1', '>= 2.1.1'
+  gem 'better_errors', '~> 2.9'
   # Retrieve the binding of a method's caller. Can also retrieve bindings even
   # further up the stack.
   gem 'binding_of_caller', '~> 0.7.2'
